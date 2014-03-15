@@ -1,5 +1,5 @@
-test-github-project-page
-========================
+GitHub Project Page example
+===========================
 
 Intro
 -----
