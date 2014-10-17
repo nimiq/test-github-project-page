@@ -21,7 +21,7 @@ What kind of static content?
 ----------------------------
 Any static HTML content
 
-There's an automatic generator which lets you write cintent in Markdown:  
+There's an automatic generator which lets you write content in Markdown:  
 https://help.github.com/articles/creating-pages-with-the-automatic-generator
 
 Or you can simply checkout the gh-pages branch and edit the HTML code
